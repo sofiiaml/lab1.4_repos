@@ -1,0 +1,12 @@
+﻿  1.4.cpp
+C:\Users\Юрій\Desktop\ООП1\1.4\1.4\1.4.cpp(328,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Юрій\Desktop\ООП1\1.4\1.4\1.4.cpp(355,10): warning C4101: 'value': unreferenced local variable
+C:\Users\Юрій\Desktop\ООП1\1.4\1.4\1.4.cpp(356,14): warning C4101: 'matrix': unreferenced local variable
+C:\Users\Юрій\Desktop\ООП1\1.4\1.4\1.4.cpp(354,7): warning C4101: 'rows2': unreferenced local variable
+C:\Users\Юрій\Desktop\ООП1\1.4\1.4\1.4.cpp(354,14): warning C4101: 'cols2': unreferenced local variable
+C:\Users\Юрій\Desktop\ООП1\1.4\1.4\1.4.cpp(353,7): warning C4101: 'rows': unreferenced local variable
+C:\Users\Юрій\Desktop\ООП1\1.4\1.4\1.4.cpp(356,22): warning C4101: 'matrix2': unreferenced local variable
+C:\Users\Юрій\Desktop\ООП1\1.4\1.4\1.4.cpp(353,13): warning C4101: 'cols': unreferenced local variable
+  RealMatrix.cpp
+  Generating Code...
+  1.4.vcxproj -> C:\Users\Юрій\Desktop\ООП1\1.4\x64\Debug\1.4.exe
